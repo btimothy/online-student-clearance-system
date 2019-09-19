@@ -1,0 +1,8 @@
+Changes on the system.
+A Student should view his own clearance status not even for others
+He should also view he clearance message or pending message sent to him with the sender’s name
+Module eg bursar, lib, lab, etc should display their own accounts instead of HOD’s account
+
+Changes in the document
+On the levels of a data diagram, name the main process and put the activities outside the process like
+we did in the context diagram.
